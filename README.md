@@ -52,6 +52,5 @@ The SQL file includes analysis of:
 - `DELETE`
 - `ALTER TABLE`
 
-## Project Note
-
-This project was originally inspired by a guided SQL learning exercise. The cleaning workflow was rebuilt for practice, and additional analysis queries were added to strengthen understanding of SQL data cleaning and analysis.
+## AUTHOR
+Swetank Kumar Jha
